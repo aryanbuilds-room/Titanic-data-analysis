@@ -10,6 +10,19 @@ Real-world datasets often contain missing values, duplicate records, inconsisten
 
 This project represents my hands-on learning journey in Python, Pandas, and Data Analytics.
 
+## 📂 Dataset Source
+
+The dataset used in this project was obtained from **Kaggle**.
+
+- **Dataset Name:** Titanic-datasets(1).
+- **Source:** [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/titanic/data)
+- **Platform:** Kaggle
+
+The dataset contains passenger information such as Name, Age, Gender, Ticket, Fare, Cabin, Passenger Class, and Survival Status.
+
+It was used to perform data cleaning, handle missing values, explore passenger information, and prepare the data for further analysis.
+
+
 ## 🎯 Project Objectives
 
 - Understand the structure of a real-world dataset.
