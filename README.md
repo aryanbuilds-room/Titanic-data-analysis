@@ -15,7 +15,7 @@ This project represents my hands-on learning journey in Python, Pandas, and Data
 The dataset used in this project was obtained from **Kaggle**.
 
 - **Dataset Name:** Titanic-datasets(1).
-- **Source:** [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/titanic/data)
+- **Source:** [Kaggle Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 - **Platform:** Kaggle
 
 The dataset contains passenger information such as Name, Age, Gender, Ticket, Fare, Cabin, Passenger Class, and Survival Status.
