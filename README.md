@@ -1,18 +1,5 @@
 # 🚢 Titanic Dataset – Data Cleaning & Preprocessing
 
-\<p align="center">
-&#x20; \<b>Turning Raw Data into Clean, Structured & Analysis-Ready Data\</b>
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Python-Programming-blue?logo=python](https://img.shields.io/badge/Python-Programming-blue?logo=python)" />
-&#x20; \<img src="[https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?logo=pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?logo=pandas)" />
-&#x20; \<img src="[https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)" />
-&#x20; \<img src="[https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab)" />
-\</p>
-
----
-
 ## 📌 Project Overview
 
 Welcome to my **Titanic Data Cleaning Project!**
